@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\bin\Debug\Uravnenie_last_vers.exe.config
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\bin\Debug\Uravnenie_last_vers.exe
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\bin\Debug\Uravnenie_last_vers.pdb
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\obj\Debug\Uravnenie_last_vers.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\obj\Debug\Uravnenie_last_vers.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\obj\Debug\Uravnenie_last_vers.exe
-C:\Users\User\source\repos\Uravnenie_last_vers\Uravnenie_last_vers\obj\Debug\Uravnenie_last_vers.pdb

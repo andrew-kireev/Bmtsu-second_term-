@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj": {}
+  },
+  "projects": {
+    "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj",
+        "projectName": "Uravnenie_2",
+        "projectPath": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj",
+        "packagesPath": "/Users/andrewkireev/.nuget/packages/",
+        "outputPath": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/andrewkireev/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
