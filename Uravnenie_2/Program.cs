@@ -26,11 +26,11 @@ namespace Laborotornya_rabota1
             try
             {
                 Console.Write("Введите коэффицент a:");
-                a = Convert.ToInt16(Console.ReadLine());
+                a = Convert.ToDouble(Console.ReadLine());
                 Console.Write("Введите коэффицент b:");
-                b = Convert.ToInt16(Console.ReadLine());
+                b = Convert.ToDouble(Console.ReadLine());
                 Console.Write("Введите коэффицент c:");
-                c = Convert.ToInt16(Console.ReadLine());
+                c = Convert.ToDouble(Console.ReadLine());
             }
             catch (Exception)
             {

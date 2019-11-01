@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj",
+      "projectUniqueName": "/Users/andrewkireev/Documents/GitHub/Bmtsu-second_term-/Uravnenie_2/Uravnenie_2.csproj",
       "projectName": "Uravnenie_2",
-      "projectPath": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/Uravnenie_2.csproj",
+      "projectPath": "/Users/andrewkireev/Documents/GitHub/Bmtsu-second_term-/Uravnenie_2/Uravnenie_2.csproj",
       "packagesPath": "/Users/andrewkireev/.nuget/packages/",
-      "outputPath": "/Users/andrewkireev/Downloads/Bmtsu-second_term--2-2.0/Uravnenie_2/obj/",
+      "outputPath": "/Users/andrewkireev/Documents/GitHub/Bmtsu-second_term-/Uravnenie_2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
