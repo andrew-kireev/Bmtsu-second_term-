@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\bin\Debug\Geom_figs_new.exe.config
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\bin\Debug\Geom_figs_new.exe
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\bin\Debug\Geom_figs_new.pdb
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\obj\Debug\Geom_figs_new.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\obj\Debug\Geom_figs_new.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\obj\Debug\Geom_figs_new.exe
+C:\Users\User\source\repos\Geom_figs_new\Geom_figs_new\obj\Debug\Geom_figs_new.pdb
