@@ -210,7 +210,7 @@ namespace Laborotornya_rabota1
                                 else
                                 {
                                     Change_color(2);
-                                    Console.WriteLine("бесконечное количество");
+                                    Console.WriteLine("Уравнение не имеет решения");
                                 }
                             }
                         }
