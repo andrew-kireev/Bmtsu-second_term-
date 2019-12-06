@@ -6,14 +6,11 @@ namespace Geom_fig
         public Square(double _lonn) : base(_lonn, _lonn) { }
 
 
-        public override double Area()
-        {
-            return Height * Height;
-        }
+     
         public override string ToString()
         {
             double sq = Area();
-            string s = "Rectangle, side length = " + Height.ToString() +
+            string s = "Square, side length = " + Height.ToString() +
                         ", S = " + sq.ToString();
             return s;
         }

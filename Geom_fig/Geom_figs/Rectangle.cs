@@ -19,11 +19,7 @@ namespace Geom_fig
             set { height = value; }
 
         }
-        public double Lon
-        {
-            get { return lon; }
-            set { lon = value; }
-        }
+    
 
         public override double Area()
         {
