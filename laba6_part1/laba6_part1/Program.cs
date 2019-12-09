@@ -52,7 +52,8 @@ namespace laba6_part1
             {
                 int z = x + y;
                 return z;
-            };            int test = pm4(1, 2);
+            };
+            int test = pm4(1, 2);
 
             PlusOrMinusMethod(
              "Создание экземпляра делегата на основе лямбда-выражения 1: ",
@@ -70,7 +71,9 @@ namespace laba6_part1
              i1,
              i2,
              Plus
-            );            PlusOrMinusMethodFunc(
+            );
+
+            PlusOrMinusMethodFunc(
              "Создание экземпляра делегата на основе лямбда-выражения 3:",
              i1,
              i2,

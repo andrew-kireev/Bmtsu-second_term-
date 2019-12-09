@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Reflection;
 using Geom_fig;
 
@@ -24,7 +21,8 @@ namespace laba6_part2
                 attribute = isAttribute[0];
             }
             return Result;
-        }
+        }
+
         static void Main(string[] args)
         {
             Type t = typeof(Circle);
@@ -85,7 +83,8 @@ namespace laba6_part2
                     NewAttribute attr = attrObj as NewAttribute;
                     Console.WriteLine(x.Name + " - " + attr.Description);
                 }
-            }
+            }
+
 
             Console.ReadLine();
         }

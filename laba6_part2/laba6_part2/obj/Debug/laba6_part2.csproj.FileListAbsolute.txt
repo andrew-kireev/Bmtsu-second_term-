@@ -5,3 +5,10 @@ C:\Users\User\source\repos\laba6_part2\laba6_part2\obj\Debug\laba6_part2.csprojA
 C:\Users\User\source\repos\laba6_part2\laba6_part2\obj\Debug\laba6_part2.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\laba6_part2\laba6_part2\obj\Debug\laba6_part2.exe
 C:\Users\User\source\repos\laba6_part2\laba6_part2\obj\Debug\laba6_part2.pdb
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\bin\Debug\laba6_part2.exe.config
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\bin\Debug\laba6_part2.exe
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\bin\Debug\laba6_part2.pdb
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\obj\Debug\laba6_part2.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\obj\Debug\laba6_part2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\obj\Debug\laba6_part2.exe
+C:\Users\User\Documents\GitHub\Bmtsu-second_term-\laba6_part2\laba6_part2\obj\Debug\laba6_part2.pdb
